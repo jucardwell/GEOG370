@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "east_Franklin_geojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "East Franklin" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -79.066759188448614, 35.910859822957789 ], [ -79.063300559345834, 35.911295571625146 ], [ -79.046929714925952, 35.917458045786624 ], [ -79.046929714925952, 35.917458045786624 ] ] ] } }
+]
+}
