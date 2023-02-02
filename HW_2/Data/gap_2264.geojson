@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gap_2264",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2264" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Roaring_Gap", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "lon": 1415704.7344895501, "lat": 36.403 }, "geometry": { "type": "Point", "coordinates": [ 1415704.734489550115541, 971423.384867262793705, 0.0 ] } }
+]
+}

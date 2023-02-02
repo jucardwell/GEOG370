@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "franklinstreetpoint_geojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -79.054832180118424, 35.913683417487469 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ -79.054236974395437, 35.913903786577194 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -79.056158638586766, 35.913179320886606 ] } }
+]
+}
